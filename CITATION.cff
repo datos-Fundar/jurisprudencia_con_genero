@@ -1,0 +1,16 @@
+abstract: No description provided.
+authors:
+- family-names: Florencia Gayraud
+- affiliation: Fundar
+  family-names: Datos Fundar
+cff-version: 1.2.0
+date-released: '2024-10-09'
+doi: 10.5281/zenodo.13909867
+license:
+- cc-by-4.0
+repository-code: https://github.com/datos-Fundar/jurisprudencia-con-genero/tree/v1.0.0
+title: "datos-Fundar/jurisprudencia-con-genero: Fortalecer la justicia con perspectiva\
+  \ de g\xE9nero: Diagn\xF3stico, desaf\xEDos y recomendaciones para su implementaci\xF3\
+  n"
+type: software
+version: v1.0.0
