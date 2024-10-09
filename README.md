@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/798441378.svg)](https://doi.org/10.5281/zenodo.11206168)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13909867.svg)](https://doi.org/10.5281/zenodo.13909867)
 
 
 # Jurisprudencia con género
