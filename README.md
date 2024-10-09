@@ -1,6 +1,6 @@
 # Jurisprudencia con género
 
-[![Fortalecer la justicia con perspectiva de género: Diagnóstico, desafíos y recomendaciones para su implementación](https://github.com/user-attachments/assets/76c665b8-9975-4793-886a-bb333c567f37)](https://fund.ar)
+[![Fortalecer la justicia con perspectiva de género: Diagnóstico, desafíos y recomendaciones para su implementación](https://github.com/user-attachments/assets/dd8ec945-ce49-4099-904d-cf74f271b1cf)](https://fund.ar)
 
 
 El policy brief “Fortalecer la justicia con perspectiva de género: Diagnóstico, desafíos y recomendaciones para su implementación" publicado por Fundar, tiene como objetivo realizar un diagnóstico sobre la integración de la perspectiva de género en la justicia argentina y propone recomendaciones para construir un sistema judicial más justo e inclusivo. Para esto es necesario analizar las argumentaciones que se realizan en cada sentencia observada sobre la base de un criterio sólido. 
