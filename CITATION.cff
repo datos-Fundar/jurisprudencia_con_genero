@@ -1,8 +1,6 @@
 abstract: No description provided.
 authors:
 - family-names: Florencia Gayraud
-- affiliation: Fundar
-  family-names: Datos Fundar
 cff-version: 1.2.0
 date-released: '2024-10-09'
 doi: 10.5281/zenodo.13909867
