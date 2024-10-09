@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/798441378.svg)](https://doi.org/10.5281/zenodo.11206168)
+
+
 # Jurisprudencia con género
 
 [![Fortalecer la justicia con perspectiva de género: Diagnóstico, desafíos y recomendaciones para su implementación](https://github.com/user-attachments/assets/dd8ec945-ce49-4099-904d-cf74f271b1cf)](https://fund.ar)
