@@ -1,14 +1,21 @@
-abstract: No description provided.
-authors:
-- family-names: Florencia Gayraud
 cff-version: 1.2.0
-date-released: '2024-10-09'
-doi: 10.5281/zenodo.13909867
-license:
-- cc-by-4.0
-repository-code: https://github.com/datos-Fundar/jurisprudencia-con-genero/tree/v1.0.0
-title: "datos-Fundar/jurisprudencia-con-genero: Fortalecer la justicia con perspectiva\
-  \ de g\xE9nero: Diagn\xF3stico, desaf\xEDos y recomendaciones para su implementaci\xF3\
-  n"
-type: software
-version: v1.0.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "2024-10-24"
+title: "Fortalecer la justicia con perspectiva de género: Diagnóstico, desafíos y recomendaciones para su implementación"
+abstract: >-
+El policy brief “Fortalecer la justicia con perspectiva de género: Diagnóstico, desafíos y recomendaciones para su implementación" publicado por Fundar, tiene como objetivo realizar un diagnóstico sobre la integración de la perspectiva de género en la justicia argentina y propone recomendaciones para construir un sistema judicial más justo e inclusivo. Para esto es necesario analizar las argumentaciones que se realizan en cada sentencia observada sobre la base de un criterio sólido.
+repository-code: "https://github.com/datos-Fundar/jurisprudencia-con-genero"
+url: "https://fund.ar/"
+
+identifiers:
+  - description: "La base de datos de jurisprudencia con perspectiva de género fue construida a partir de las sentencias de los 21 tribunales superiores de justicia provinciales que enviaron a la Oficina de la Mujer de la Corte Suprema de Justicia de la Nación"
+    type: doi
+    value:  10.5281/zenodo.13909867 
+
+authors:
+  - given-names: "Florencia"
+    family-names: "Gayraud"
+    affiliation: "Fundar"
+ 
