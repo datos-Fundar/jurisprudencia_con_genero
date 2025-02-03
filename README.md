@@ -26,7 +26,7 @@ La base de datos de leyes nacionales de género fue construida a partir de un re
 
 El libro de códigos contiene la documentación de cada una de las bases de datos con una descripción detallada de sus variables y la codificación de los valores cuando corresponda.
 
-[Ir al archivo](https://github.com/datos-Fundar/jurisprudencia-con-genero/blob/main/Libro%20de%20c%C3%B3digos%20base%20jurisprudencia%20g%C3%A9nero.pdf)
+[Ir al archivo](https://github.com/datos-Fundar/jurisprudencia_con_genero/blob/main/libro_de_codigos.pdf)
 
 ---
 <div>&nbsp;</div>
